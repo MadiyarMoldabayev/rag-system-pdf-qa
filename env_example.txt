@@ -1,0 +1,5 @@
+# OpenAI API Key (required for LLM functionality)
+OPENAI_API_KEY=your_openai_api_key_here
+
+# Optional: You can also use other models
+# ANTHROPIC_API_KEY=your_anthropic_api_key_here

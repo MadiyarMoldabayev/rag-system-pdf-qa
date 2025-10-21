@@ -1,0 +1,8 @@
+streamlit==1.28.1
+faiss-cpu==1.7.4
+pypdf2==3.0.1
+python-dotenv==1.0.0
+openai>=1.6.1
+tiktoken==0.5.1
+torch>=2.0.0
+sentence-transformers>=2.2.0
