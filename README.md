@@ -2,6 +2,8 @@
 
 A Retrieval-Augmented Generation (RAG) system that allows you to upload PDF documents and ask questions about their content using AI-powered natural language processing.
 
+🔗 **GitHub Repository**: [https://github.com/MadiyarMoldabayev/rag-system-pdf-qa](https://github.com/MadiyarMoldabayev/rag-system-pdf-qa)
+
 ## Features
 
 - 📄 **PDF Text Extraction**: Automatically extracts text from uploaded PDF files
